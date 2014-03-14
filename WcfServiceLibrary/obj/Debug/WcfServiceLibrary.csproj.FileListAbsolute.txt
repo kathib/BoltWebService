@@ -1,0 +1,6 @@
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WcfServiceLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb

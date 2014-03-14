@@ -1,0 +1,10 @@
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WPFClient\bin\Debug\WPFClient.exe
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WPFClient\bin\Debug\WPFClient.pdb
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WPFClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WPFClient\obj\x86\Debug\WPFClient.Properties.Resources.resources
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WPFClient\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WPFClient\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WPFClient\obj\x86\Debug\WPFClient.exe
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WPFClient\obj\x86\Debug\WPFClient.pdb
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WPFClient\bin\Debug\WPFClient.exe.config
+c:\users\tulajdonos\documents\visual studio 2010\Projects\WPFClient\WPFClient\obj\x86\Debug\WPFClient.Form1.resources
